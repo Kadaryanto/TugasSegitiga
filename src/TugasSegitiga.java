@@ -53,7 +53,9 @@ public class TugasSegitiga {
         System.out.print("*");
         
             }
-            
+            System.out.println("");
+            for (int o=x; o>=b; o--)
+            {System.out.print(" ");
             }
         }
         
