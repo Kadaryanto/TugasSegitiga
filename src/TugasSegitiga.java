@@ -32,6 +32,13 @@ public class TugasSegitiga {
         System.out.println();
         // Untuk Membentuk Segitiga Piramida (Sama Kaki)
         System.out.println("Piramida : ");
+        for (int i=1;i<=x;i++){
+            for(int j=x;j>=i;j--){
+                System.out.print(" ");
+            }
+            
+            System.out.println();
+        }
         
     }
     
