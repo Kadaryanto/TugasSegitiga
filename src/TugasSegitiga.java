@@ -30,7 +30,8 @@ public class TugasSegitiga {
             System.out.println(" ");
         }
         System.out.println();
-        
+        // Untuk Membentuk Segitiga Piramida (Sama Kaki)
+        System.out.println("Piramida : ");
         
     }
     
