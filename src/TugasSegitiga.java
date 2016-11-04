@@ -58,7 +58,12 @@ public class TugasSegitiga {
             {System.out.print(" ");
             }
         }
-        
+        System.out.println();
+        // Untuk Membentuk Segitiga Siku - siku Kiri Atas
+        System.out.println("Siku Kiri Atas : ");
+        for (int i=0;i<x;i++){
+            
+        }
         
     }
     
