@@ -10,6 +10,16 @@ public class TugasSegitiga {
         Scanner input=new Scanner (System.in);
         System.out.println("Masukkan Jumlah Karakter : ");
         int x = input.nextInt();
+        // Untuk Membentuk Segitiga Siku-siku Kiri Bawah
+        System.out.println("Siku Kiri Bawah : "); 
+        for (int i=1;i<=x;i++){
+            for(int j=1;j<=i;j++){
+                System.out.print("*"); // Mencetak Karakter Bintang
+            }
+            System.out.println();
+        }
+        
+        
     }
     
 }
