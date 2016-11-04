@@ -18,6 +18,15 @@ public class TugasSegitiga {
             }
             System.out.println();
         }
+        // Untuk Membentuk Segitiga Siku - siku Kanan Bawah
+        System.out.println("Siku Kanan Bawah : ");
+        for (int i=0;i<=x;i++){
+            for(int j=0;j<=x - i;j++){
+                System.out.print(" ");
+            }
+            System.out.println(" ");
+        }
+       
         
         
     }
