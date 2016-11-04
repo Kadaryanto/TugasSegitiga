@@ -29,7 +29,7 @@ public class TugasSegitiga {
             }
             System.out.println(" ");
         }
-       
+        System.out.println();
         
         
     }
