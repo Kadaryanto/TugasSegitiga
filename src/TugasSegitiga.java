@@ -44,6 +44,19 @@ public class TugasSegitiga {
             }
             System.out.println();
         }
+        // Untuk Membentuk Segitiga Siku - siku Kanan Atas
+        System.out.println("Siku Kanan Atas : ");
+        for (int b=x; b>=0; b--)
+        {
+            for (int k=0; k<=b; k++)
+            {
+        System.out.print("*");
+        
+            }
+            
+            }
+        }
+        
         
     }
     
